@@ -1,9 +1,9 @@
 /* $Id: style.css,v 1.2 2004/04/02 20:59:55 mitch Exp
  * minimal CSS */
 
-a:link { color: #2077E0; }
-a:visited { color: #0040C0; }
-a:active { color: #4099FF; }
+a:link { color: #0040C0; }
+a:visited { color: #002060; }
+a:active { color: #C04000; }
 
 body {
  background: white;
