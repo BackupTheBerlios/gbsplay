@@ -1,0 +1,14 @@
+<!--
+ $Id: style.css,v 1.1 2004/04/02 20:56:42 mitch Exp $
+ minimal CSS
+-->
+body {
+ background: white;
+ color: black;
+}
+a:link { color: #2077E0; }
+a:visited { color: #0040C0; }
+a:active { color: #4099FF; }
+p {
+ text-align: justify;
+}
