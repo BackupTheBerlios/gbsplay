@@ -13,3 +13,15 @@ body {
 p {
  text-align: justify;
 }
+
+p.header {
+ text-align: center;
+ font-size: 0.8em;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
+p.footer {
+ text-align: right;
+ font-size: 0.8em;
+}
